@@ -1,5 +1,5 @@
 {
-    "spider": "./fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b",
+    "spider": "https://tvbox-sandy.vercel.app/jar/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b",
     "logo": "https://avatars.githubusercontent.com/u/58679624?v=4",
     "lives": [
         {
